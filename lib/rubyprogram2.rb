@@ -1,5 +1,5 @@
 def sum(num, num2)
-  puts num + num2
+  num + num2
 end
 
 print "Type a number: "
